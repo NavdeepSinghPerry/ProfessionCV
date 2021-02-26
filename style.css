@@ -1,54 +1,54 @@
-.titleImage{
+/* .titleImage{
   height: 1000px;
-}
-.nav-link{
+} */
+.nav-link {
   color: #dcdcdc;
   font-size: 20px;
 }
 
-.navbar-brand{
+.navbar-brand {
   color: #dcdcdc;
-
 }
-#carouselFirstPage{
+
+#carouselFirstPage {
   top: 0;
 }
 
-h1{
+h1 {
   color: #dcdcdc;
   position: relative;
   z-index: 1;
-  font-size:3rem;
+  font-size: 3rem;
   font-weight: bolder;
-
 }
 
-h2{
+h2 {
   color: #696969;
 }
 
-p{
+p {
   color: #a9a9a9;
   position: relative;
   z-index: 1;
   font-size: 1.5rem;
-  line-height:3rem;
-
+  line-height: 3rem;
 }
 
-.pHeading{
+.pHeading {
   color: #dcdcdc;
   position: relative;
   z-index: 1;
   font-size: 1.5rem;
-  line-height:3rem;
+  line-height: 3rem;
   font-weight: bold;
 }
-.topContainerFooterText{
+
+.topContainerFooterText {
   position: absolute;
   left: 25%;
   right: 25%;
 }
+
 /* .topContainerFooterText{
   font-size: 3rem;
   position: absolute;
@@ -56,194 +56,203 @@ p{
   right: 20%;
   top: 40%;
 } */
-.container{
+.container {
   position: absolute;
   top: 5%;
-  width:90%;
+  width: 90%;
   left: 5%;
   right: 5%;
   padding: 5%;
- ;
+  ;
 }
 
 /* PURPOSE */
-
-.purpose{
-  padding:15%;
+.purpose {
+  padding: 15%;
   padding-bottom: 15%;
 }
 
-.pStatementOfPurpose{
+.pStatementOfPurpose {
   text-align: left;
   clear: left;
   color: #a9a9a9;
   font-size: 1.5rem;
-  line-height:3rem;
-
+  line-height: 3rem;
 }
 
-.profilePic{
+.profilePic {
   float: left;
   width: 40%;
-  margin-bottom:5%;
+  margin-bottom: 5%;
+  border-radius: 10%;
 }
 
 /* Horizontal Rule */
-hr{
+hr {
   border-style: dotted;
   border-width: 15px 0 0 0;
   width: 40%;
   border-color: gray;
   color: transparent;
   margin: 0 auto;
-
 }
 
 /* COMPETENCIES */
-
-.Competencies{
-  padding:15%;
+.Competencies {
+  padding: 15%;
   padding-bottom: 15%;
 }
-.skillsPic{
+
+.skillsPic {
   float: left;
   width: 40%;
-  margin-bottom:5%;
+  margin-bottom: 5%;
+  border-radius: 10%;
 }
-.ulCompetencies{
+
+.ulCompetencies {
   text-align: left;
   clear: left;
   color: #a9a9a9;
   font-size: 1.5rem;
-  line-height:3rem;
+  line-height: 3rem;
   padding-left: 20px;
 }
 
 /* ACADEMIC PROFILE */
-.academicProfile{
-  padding:15%;
+.academicProfile {
+  padding: 15%;
   padding-bottom: 15%;
   color: #a9a9a9;
   font-size: 1.5rem;
-  line-height:3rem;
+  line-height: 3rem;
 }
 
-.acadamicProfilePic{
+.acadamicProfilePic {
   float: left;
   width: 40%;
-  margin-bottom:5%;
-
+  margin-bottom: 5%;
+  border-radius: 10%;
 }
-.acadamicProfileTable{
+
+.acadamicProfileTable {
   clear: left;
   width: 100%;
 }
-td{
+
+td {
   color: #a9a9a9;
 }
-th{
+
+th {
   color: #a9a9a9;
 }
 
 /* PROJECTS */
-
-.carouselItem{
+.carouselItem {
   padding: 0 15% 15% 15%;
   color: #a9a9a9;
   font-size: 1.5rem;
-  line-height:3rem;
+  line-height: 3rem;
   text-align: left;
   position: relative;
-
 }
-.professionalForteProjects1{
+
+.professionalForteProjects1 {
   /* background-image: url("Images/code1.jpg");
   background-size: cover; */
 }
 
-.professionalForteProjects2{
+.professionalForteProjects2 {
   /* background-image: url("Images/code2.jpg");
   background-size: cover; */
   padding-bottom: 80px;
 }
 
-.professionalForteHeader{
-  padding:15% 15% 0 15%;
+.professionalForteHeader {
+  padding: 15% 15% 0 15%;
 }
 
-.professionalFortePic{
+.professionalFortePic {
   float: left;
   width: 40%;
-  margin-bottom:5%;
+  margin-bottom: 5%;
+  border-radius: 10%;
 }
 
 /* ACHEIVEMENTS */
-.acheivements{
-  padding:15%;
+.acheivements {
+  padding: 15%;
   padding-bottom: 15%;
   color: #a9a9a9;
   font-size: 1.5rem;
-  line-height:3rem;
-
+  line-height: 3rem;
 }
-.acheivementsPic{
+
+.acheivementsPic {
   float: left;
   width: 40%;
-  margin-bottom:5%;
-
+  margin-bottom: 5%;
+  border-radius: 10%;
 }
-.ulAcheivements{
+
+.ulAcheivements {
   clear: left;
   text-align: left;
 }
 
 /* ADDITIONAL */
-.additional{
-  padding:15%;
+.additional {
+  padding: 15%;
   padding-bottom: 15%;
   color: #a9a9a9;
   font-size: 1.5rem;
-  line-height:3rem;
-
+  line-height: 3rem;
 }
-.aditionalPic{
+
+.aditionalPic {
   float: left;
   width: 40%;
-  margin-bottom:5%;
-
+  margin-bottom: 5%;
+  border-radius: 10%;
 }
-.ulAdditional{
+
+.ulAdditional {
   clear: left;
   text-align: left;
 }
 
 /* CONTACT ME */
-.contactMe{
-  padding:15%;
+.contactMe {
+  padding: 15%;
   padding-bottom: 3%;
   color: #a9a9a9;
   font-size: 1.5rem;
-  line-height:3rem;
+  line-height: 3rem;
 }
-.contactMePic{
+
+.contactMePic {
   width: 40%;
   border-radius: 100%;
+  margin-bottom: 5%;
 }
 
 /* FOOTER */
-.footer{
-  padding:5%;
-  padding-bottom:1%;
+.footer {
+  padding: 5%;
+  padding-bottom: 1%;
 }
 
-div{
+div {
   padding: 0;
 }
-span{
+
+span {
   font-weight: bold;
   text-decoration: underline;
 }
 
-body{
+body {
   text-align: center;
+  background-image: url("Images/MainBackground.jpg");
 }
