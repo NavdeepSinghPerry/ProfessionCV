@@ -1,0 +1,249 @@
+.titleImage{
+  height: 1000px;
+}
+.nav-link{
+  color: #dcdcdc;
+  font-size: 20px;
+}
+
+.navbar-brand{
+  color: #dcdcdc;
+
+}
+#carouselFirstPage{
+  top: 0;
+}
+
+h1{
+  color: #dcdcdc;
+  position: relative;
+  z-index: 1;
+  font-size:3rem;
+  font-weight: bolder;
+
+}
+
+h2{
+  color: #696969;
+}
+
+p{
+  color: #a9a9a9;
+  position: relative;
+  z-index: 1;
+  font-size: 1.5rem;
+  line-height:3rem;
+
+}
+
+.pHeading{
+  color: #dcdcdc;
+  position: relative;
+  z-index: 1;
+  font-size: 1.5rem;
+  line-height:3rem;
+  font-weight: bold;
+}
+.topContainerFooterText{
+  position: absolute;
+  left: 25%;
+  right: 25%;
+}
+/* .topContainerFooterText{
+  font-size: 3rem;
+  position: absolute;
+  left: 20%;
+  right: 20%;
+  top: 40%;
+} */
+.container{
+  position: absolute;
+  top: 5%;
+  width:90%;
+  left: 5%;
+  right: 5%;
+  padding: 5%;
+ ;
+}
+
+/* PURPOSE */
+
+.purpose{
+  padding:15%;
+  padding-bottom: 15%;
+}
+
+.pStatementOfPurpose{
+  text-align: left;
+  clear: left;
+  color: #a9a9a9;
+  font-size: 1.5rem;
+  line-height:3rem;
+
+}
+
+.profilePic{
+  float: left;
+  width: 40%;
+  margin-bottom:5%;
+}
+
+/* Horizontal Rule */
+hr{
+  border-style: dotted;
+  border-width: 15px 0 0 0;
+  width: 40%;
+  border-color: gray;
+  color: transparent;
+  margin: 0 auto;
+
+}
+
+/* COMPETENCIES */
+
+.Competencies{
+  padding:15%;
+  padding-bottom: 15%;
+}
+.skillsPic{
+  float: left;
+  width: 40%;
+  margin-bottom:5%;
+}
+.ulCompetencies{
+  text-align: left;
+  clear: left;
+  color: #a9a9a9;
+  font-size: 1.5rem;
+  line-height:3rem;
+  padding-left: 20px;
+}
+
+/* ACADEMIC PROFILE */
+.academicProfile{
+  padding:15%;
+  padding-bottom: 15%;
+  color: #a9a9a9;
+  font-size: 1.5rem;
+  line-height:3rem;
+}
+
+.acadamicProfilePic{
+  float: left;
+  width: 40%;
+  margin-bottom:5%;
+
+}
+.acadamicProfileTable{
+  clear: left;
+  width: 100%;
+}
+td{
+  color: #a9a9a9;
+}
+th{
+  color: #a9a9a9;
+}
+
+/* PROJECTS */
+
+.carouselItem{
+  padding: 0 15% 15% 15%;
+  color: #a9a9a9;
+  font-size: 1.5rem;
+  line-height:3rem;
+  text-align: left;
+  position: relative;
+
+}
+.professionalForteProjects1{
+  /* background-image: url("Images/code1.jpg");
+  background-size: cover; */
+}
+
+.professionalForteProjects2{
+  /* background-image: url("Images/code2.jpg");
+  background-size: cover; */
+  padding-bottom: 80px;
+}
+
+.professionalForteHeader{
+  padding:15% 15% 0 15%;
+}
+
+.professionalFortePic{
+  float: left;
+  width: 40%;
+  margin-bottom:5%;
+}
+
+/* ACHEIVEMENTS */
+.acheivements{
+  padding:15%;
+  padding-bottom: 15%;
+  color: #a9a9a9;
+  font-size: 1.5rem;
+  line-height:3rem;
+
+}
+.acheivementsPic{
+  float: left;
+  width: 40%;
+  margin-bottom:5%;
+
+}
+.ulAcheivements{
+  clear: left;
+  text-align: left;
+}
+
+/* ADDITIONAL */
+.additional{
+  padding:15%;
+  padding-bottom: 15%;
+  color: #a9a9a9;
+  font-size: 1.5rem;
+  line-height:3rem;
+
+}
+.aditionalPic{
+  float: left;
+  width: 40%;
+  margin-bottom:5%;
+
+}
+.ulAdditional{
+  clear: left;
+  text-align: left;
+}
+
+/* CONTACT ME */
+.contactMe{
+  padding:15%;
+  padding-bottom: 3%;
+  color: #a9a9a9;
+  font-size: 1.5rem;
+  line-height:3rem;
+}
+.contactMePic{
+  width: 40%;
+  border-radius: 100%;
+}
+
+/* FOOTER */
+.footer{
+  padding:5%;
+  padding-bottom:1%;
+}
+
+div{
+  padding: 0;
+}
+span{
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+body{
+  text-align: center;
+}
